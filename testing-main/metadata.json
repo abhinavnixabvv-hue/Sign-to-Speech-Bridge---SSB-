@@ -1,0 +1,5 @@
+{
+  "name": "Sign-to-Speech Bridge (SSB)",
+  "description": "An assistive communication system bridging the gap between Indian Sign Language (ISL) users and non-signing individuals using real-time ML and computer vision.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
